@@ -1,0 +1,1 @@
+DineDash — an end-to-end Databricks data pipeline for a food delivery platform. Implements Bronze/Silver/Gold medallion architecture with incremental Structured Streaming ingestion, Delta Lake, data quality constraints, and SQL-driven dashboards for orders, restaurants, and revenue trends.
